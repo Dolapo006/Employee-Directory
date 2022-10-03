@@ -5,17 +5,20 @@
     align-items: center;
     box-sizing: border-box;
     font-family: sans-serif;
+    color:greenyellow;;
     text-align: center;
+    background-color: black;
   }
   
   h4,
   p {
     margin: 0;
+    color:blue;
   }
   
   p {
     font-size: 0.75em;
-    color: gray;
+    color:deeppink;
   }
   
   .input-wrap {
@@ -29,7 +32,7 @@
   
   .list-item {
     display: flex;
-    border: red 1px solid;
+    border: greenyellow 1px solid;
     width: 80vw;
     min-width: 200px;
     min-height: 80px;
@@ -39,10 +42,7 @@
     padding: 2px;
   }
   
-  .picture {
-    width: 80px;
-    height: 80px;
-  }
+  
   .image {
     width: 80px;
     height: 80px;
